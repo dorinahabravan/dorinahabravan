@@ -62,7 +62,8 @@
 
 #### 🏙️ Seabrook Community Web App
 > Dynamic municipal-style website in PHP
->   ![SeabrookCommunity](https://github.com/user-attachments/assets/d3773b71-42d4-478f-9b5e-9a88083b50ed)
+
+<img src="https://github.com/user-attachments/assets/d3773b71-42d4-478f-9b5e-9a88083b50ed" width="450"/>
 
 [🔗 GitHub Repo](https://github.com/dorinahabravan/seabrookcommunity)
 
