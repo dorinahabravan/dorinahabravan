@@ -10,7 +10,7 @@
 
 ### 🔍 About Me
 
-- 🎓 I'm currently studying Computer Science at Newcastle College Group (Level 5).
+- 🎓 I'm currently studying Computer Science at Elizabeth School of London in partnership with  Newcastle College Group (Level 5).
 - 🛠️ I enjoy building full-stack applications and experimenting with AI for real-world solutions.
 - 🌍 Based in the UK, open to remote and freelance opportunities.
 - 🚀 My goal: to innovate, learn constantly, and make an impact with code.
