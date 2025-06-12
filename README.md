@@ -79,6 +79,9 @@
 </p>
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=dorinahabravan&color=blue)
+![Website](https://img.shields.io/badge/Portfolio-Live-blue)
+![GitHub followers](https://img.shields.io/github/followers/dorinahabravan?label=Follow&style=social)
 
 💡 Always learning. Always coding.
 
