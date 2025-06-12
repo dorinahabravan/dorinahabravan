@@ -42,14 +42,14 @@
 
 #### 📚 Smart Study Assistant
 > AI-powered web app with learning path and quizzes generation  
+![AIClimateChange](https://github.com/user-attachments/assets/e414e634-186f-437d-a291-cd4966be2a26)
 
-![SmartStudyAssistant](https://github.com/user-attachments/assets/6f3b6776-e938-45bc-81f4-6614c895357f)
+
 
 [🔗 GitHub Repo](https://github.com/dorinahabravan/Smart-Study-Assistant-App)
 #### 🌍 AI-Based Climate Monitoring
 > ML models on NASA data using LSTM & XGBoost  
 
-![Climate Monitoring](https://raw.githubusercontent.com/dorinahabravan/climate-ai-remote-sensing/main/assets/cover.jpg)
 [🔗 GitHub Repo](https://github.com/dorinahabravan/climate-ai-remote-sensing)
 
 #### 📮 Stamp Management System
