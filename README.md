@@ -1,3 +1,6 @@
+
+
+![my-profile-img](https://github.com/user-attachments/assets/1e9e12c9-d38f-4031-a138-4e30f6c506ec)
 <!-- Header -->
 <h1 align="center">Hi, I'm Dorina Habravan 👋</h1>
 <p align="center">
