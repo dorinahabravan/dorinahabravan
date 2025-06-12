@@ -42,29 +42,29 @@
 
 #### 📚 Smart Study Assistant
 > AI-powered web app with learning path and quizzes generation  
-[🔗 GitHub Repo](https://github.com/dorinahabravan/Smart-Study-Assistant-App)
+
 ![SmartStudyAssistant](https://github.com/user-attachments/assets/6f3b6776-e938-45bc-81f4-6614c895357f)
 
 ![Smart Study Assistant](https://raw.githubusercontent.com/dorinahabravan/Smart-Study-Assistant-App/main/assets/cover.jpg)
-
+[🔗 GitHub Repo](https://github.com/dorinahabravan/Smart-Study-Assistant-App)
 #### 🌍 AI-Based Climate Monitoring
 > ML models on NASA data using LSTM & XGBoost  
-[🔗 GitHub Repo](https://github.com/dorinahabravan/climate-ai-remote-sensing)
 
 ![Climate Monitoring](https://raw.githubusercontent.com/dorinahabravan/climate-ai-remote-sensing/main/assets/cover.jpg)
+[🔗 GitHub Repo](https://github.com/dorinahabravan/climate-ai-remote-sensing)
 
 #### 📮 Stamp Management System
 > Java desktop app with CRUD + CSV  
-[🔗 GitHub Repo](https://github.com/dorinahabravan/stamp_management_system)
 >
 > ![StampSystem jpg](https://github.com/user-attachments/assets/09c21650-951a-45eb-8594-4c15a44d4df7)
+[🔗 GitHub Repo](https://github.com/dorinahabravan/stamp_management_system)
 
 
 #### 📅 Booking Management System
 > Java GUI system with file storage  
-[🔗 GitHub Repo](https://github.com/dorinahabravan/bookingmanagementsystem)
 >
 > ![VacayStar](https://github.com/user-attachments/assets/a698b2d1-ec64-4c40-946b-2c7aa0fbb340)
+[🔗 GitHub Repo](https://github.com/dorinahabravan/bookingmanagementsystem)
 
 
 #### 🏙️ Seabrook Community Web App
