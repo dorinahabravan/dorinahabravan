@@ -1,8 +1,9 @@
 <p align="center">
-  <a href="https://github.com/Dorina_Habravan_IT_CV.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=readthedocs" />
+  <a href="https://github.com/dorinahabravan/dorinahabravan/raw/main/Dorina_Habravan_IT_CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄 Download My CV-blue?style=for-the-badge" alt="Download CV"/>
   </a>
 </p>
+
 
 
 <!-- Header -->
