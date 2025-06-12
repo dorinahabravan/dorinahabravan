@@ -38,32 +38,40 @@
 
 
 ---
- ### 🧠 Projects Showcase
+### 🧠 Projects Showcase
 
 #### 📚 Smart Study Assistant
-> AI-powered web app with learning path and quizzes generation  
+> AI-powered web app with learning path and quizzes generation
 
-
-![SmartStudyAssistant](https://github.com/user-attachments/assets/ed5e9f94-7cd1-4021-8f84-04fdbd4b2310)
-
+<img src="https://github.com/user-attachments/assets/ed5e9f94-7cd1-4021-8f84-04fdbd4b2310" width="450"/>
 
 [🔗 GitHub Repo](https://github.com/dorinahabravan/Smart-Study-Assistant-App)
+
+---
+
 #### 🌍 AI-Based Climate Monitoring
 > ML models on NASA data using LSTM & XGBoost  
-![AIClimateChange](https://github.com/user-attachments/assets/e414e634-186f-437d-a291-cd4966be2a26)
+
+<img src="https://github.com/user-attachments/assets/e414e634-186f-437d-a291-cd4966be2a26" width="450"/>
+
 [🔗 GitHub Repo](https://github.com/dorinahabravan/climate-ai-remote-sensing)
+
+---
 
 #### 📮 Stamp Management System
 > Java desktop app with CRUD + CSV  
->
-> ![StampSystem jpg](https://github.com/user-attachments/assets/09c21650-951a-45eb-8594-4c15a44d4df7)
+
+<img src="https://github.com/user-attachments/assets/09c21650-951a-45eb-8594-4c15a44d4df7" width="450"/>
+
 [🔗 GitHub Repo](https://github.com/dorinahabravan/stamp_management_system)
 
+---
 
 #### 📅 Booking Management System
 > Java GUI system with file storage  
->
-> ![VacayStar](https://github.com/user-attachments/assets/a698b2d1-ec64-4c40-946b-2c7aa0fbb340)
+
+<img src="https://github.com/user-attachments/assets/a698b2d1-ec64-4c40-946b-2c7aa0fbb340" width="450"/>
+
 [🔗 GitHub Repo](https://github.com/dorinahabravan/bookingmanagementsystem)
 
 
