@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/dorinahabravan/dorinahabravan/raw/main/DorinaHabravan_CV.pdf" target="_blank">
+  <a href="https://github.com/dorinahabravan/dorinahabravan/DorinaHabravan_CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=readthedocs" />
   </a>
 </p>
