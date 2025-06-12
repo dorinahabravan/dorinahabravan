@@ -45,7 +45,6 @@
 
 ![SmartStudyAssistant](https://github.com/user-attachments/assets/6f3b6776-e938-45bc-81f4-6614c895357f)
 
-![Smart Study Assistant](https://raw.githubusercontent.com/dorinahabravan/Smart-Study-Assistant-App/main/assets/cover.jpg)
 [🔗 GitHub Repo](https://github.com/dorinahabravan/Smart-Study-Assistant-App)
 #### 🌍 AI-Based Climate Monitoring
 > ML models on NASA data using LSTM & XGBoost  
