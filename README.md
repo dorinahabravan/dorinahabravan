@@ -35,7 +35,7 @@
 
 ### 📫 Let's connect!
 - 📧 Email: dorina.habravan@gmail.com
-- 🔗 [LinkedIn](https://linkedin.com/in/dorina-habravan-663710198)
+- 🌐 LinkedIn: [LinkedIn](https://linkedin.com/in/dorina-habravan-663710198)
 
 
 
