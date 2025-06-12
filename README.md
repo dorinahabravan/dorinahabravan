@@ -29,16 +29,16 @@
 
 ---
 
-### 📫 Connect with Me
 
-<p align="left">
-  <a href="mailto:dorina.habravan@gmail.com"><img src="https://img.shields.io/badge/Email-dorina.habravan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/dorina-habravan-663710198"><img src="https://img.shields.io/badge/LinkedIn-Dorina_Habravan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+
+### 📫 Let's connect!
+- 📧 Email: dorina.habravan@gmail.com
+- 🔗 [LinkedIn](https://linkedin.com/in/dorina-habravan-663710198)
+
+
 
 ---
-
-### 🧠 Projects Showcase
+ ### 🧠 Projects Showcase
 
 #### 📚 Smart Study Assistant
 > AI-powered web app with learning path and quizzes generation  
@@ -78,11 +78,5 @@
 
 ---
 
-### 🌐 Contribution Graph
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=dorinahabravan&theme=react-dark" alt="Contribution Graph"/>
-</p>
-
----
+💡 Always learning. Always coding.
 
