@@ -52,9 +52,9 @@
 ### 🧠 Projects Showcase
 
 #### 🧩 Work-Based Learning Project
-Student team project managed using **Trello** and **Agile methodology**.  
-I was assigned as **Project Manager**, coordinating tasks, tracking progress, and ensuring deadlines were met.  
-The project focused on building a **web application** using **PHP, SQL database, and frontend technologies (HTML/CSS/JS)**.  
+> Student team project managed using **Trello** and **Agile methodology**.  
+> I was assigned as **Project Manager**, coordinating tasks, tracking progress, and ensuring deadlines were met.  
+> The project focused on building a **web application** using **PHP, SQL database, and frontend technologies (HTML/CSS/JS)**.  
 
 <img src="https://github.com/user-attachments/assets/911ab5f8-3059-47f7-8a90-3ba20020981a" width="450"/>
 
@@ -63,8 +63,8 @@ The project focused on building a **web application** using **PHP, SQL database,
 
 ---
 #### 🧱 FixerUpper E-commerce Prototype
-Secure PHP & MySQL web application for a hardware retailer transitioning from physical store to online sales. 
-Includes product catalog, shopping cart, user authentication, and order management
+> Secure PHP & MySQL web application for a hardware retailer transitioning from physical store to online sales. 
+> Includes product catalog, shopping cart, user authentication, and order management
 
 <img src="https://github.com/user-attachments/assets/ee6c7047-22a4-4203-b922-6deee79d3ef2" width="450"/>
 
