@@ -56,7 +56,7 @@ Includes product catalog, shopping cart, user authentication, and order manageme
 
 <img src="https://github.com/user-attachments/assets/ed5e9f94-7cd1-4021-8f84-04fdbd4b2310" width="450"/>
 
-[🔗 GitHub Repo]
+[🔗 GitHub Repo](https://github.com/dorinahabravan/FixerUpper-E-commerce-Prototype.git)
 #### 📚 Smart Study Assistant
 > AI-powered web app with learning path and quizzes generation
 
