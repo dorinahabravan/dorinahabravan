@@ -50,7 +50,13 @@
 
 ---
 ### 🧠 Projects Showcase
+#### 🧱 FixerUpper E-commerce Prototype
+Secure PHP & MySQL web application for a hardware retailer transitioning from physical store to online sales. 
+Includes product catalog, shopping cart, user authentication, and order management
 
+<img src="https://github.com/user-attachments/assets/ed5e9f94-7cd1-4021-8f84-04fdbd4b2310" width="450"/>
+
+[🔗 GitHub Repo]
 #### 📚 Smart Study Assistant
 > AI-powered web app with learning path and quizzes generation
 
