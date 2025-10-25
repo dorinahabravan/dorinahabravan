@@ -54,7 +54,7 @@
 Secure PHP & MySQL web application for a hardware retailer transitioning from physical store to online sales. 
 Includes product catalog, shopping cart, user authentication, and order management
 
-<img src="https://github.com/user-attachments/assets/ed5e9f94-7cd1-4021-8f84-04fdbd4b2310" width="450"/>
+<img src="https://github.com/user-attachments/assets/ee6c7047-22a4-4203-b922-6deee79d3ef2" width="450"/>
 
 [🔗 GitHub Repo](https://github.com/dorinahabravan/FixerUpper-E-commerce-Prototype.git)
 #### 📚 Smart Study Assistant
