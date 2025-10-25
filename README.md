@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://github.com/dorinahabravan/dorinahabravan/raw/main/Dorina_Habravan_IT_CV.pdf" target="_blank">
+  <a href="https://github.com/dorinahabravan/dorinahabravan/raw/main/Dorina_Habravan_2025_CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📥 Download CV-blue?style=for-the-badge" alt="Download CV"/>
   </a>
-  <a href="https://github.com/dorinahabravan/dorinahabravan/blob/main/Dorina_Habravan_IT_CV.pdf" target="_blank">
+  <a href="https://github.com/dorinahabravan/dorinahabravan/blob/main/Dorina_Habravan_2025_CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/👁️ View CV-lightgrey?style=for-the-badge" alt="View CV"/>
   </a>
 </p>
