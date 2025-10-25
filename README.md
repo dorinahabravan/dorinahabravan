@@ -50,6 +50,17 @@
 
 ---
 ### 🧠 Projects Showcase
+
+#### 🧩 Work-Based Learning Project
+Student team project managed using **Trello** and **Agile methodology**.  
+I was assigned as **Project Manager**, coordinating tasks, tracking progress, and ensuring deadlines were met.  
+The project focused on building a **web application** using **PHP, SQL database, and frontend technologies (HTML/CSS/JS)**.  
+
+<img src="https://github.com/user-attachments/assets/YOUR_TRELLO_IMAGE_ID" width="450"/>
+
+[Trello Board Link](https://trello.com/b/bNSmRzoO/workbasedlearning)  
+[🔗 GitHub Repo](https://github.com/dorinahabravan/WORK-BASED-LEARNING-PROJECT.git)
+
 ---
 #### 🧱 FixerUpper E-commerce Prototype
 Secure PHP & MySQL web application for a hardware retailer transitioning from physical store to online sales. 
