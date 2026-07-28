@@ -89,7 +89,7 @@ Python • Pandas • NumPy • Scikit-learn • TensorFlow/Keras • Streamlit 
 > Secure PHP & MySQL web application for a hardware retailer transitioning from physical store to online sales. 
 > Includes product catalog, shopping cart, user authentication, and order management
 
-<img src="https://github.com/user-attachments/assets/ee6c7047-22a4-4203-b922-6deee79d3ef2" width="450"/>
+<img src="https://github.com/user-attachments/assets/ee6c7047-22a4-4203-b922-6deee79d3ef2" width="900"/>
 
 [🔗 GitHub Repo](https://github.com/dorinahabravan/FixerUpper-E-commerce-Prototype.git)
 
@@ -98,7 +98,7 @@ Python • Pandas • NumPy • Scikit-learn • TensorFlow/Keras • Streamlit 
 #### 📚 Smart Study Assistant
 > AI-powered web app with learning path and quizzes generation
 
-<img src="https://github.com/user-attachments/assets/ed5e9f94-7cd1-4021-8f84-04fdbd4b2310" width="450"/>
+<img src="https://github.com/user-attachments/assets/ed5e9f94-7cd1-4021-8f84-04fdbd4b2310" width="900"/>
 
 [🔗 GitHub Repo](https://github.com/dorinahabravan/Smart-Study-Assistant-App)
 
@@ -107,7 +107,7 @@ Python • Pandas • NumPy • Scikit-learn • TensorFlow/Keras • Streamlit 
 #### 🌍 AI-Based Climate Monitoring
 > ML models on NASA data using LSTM & XGBoost  
 
-<img src="https://github.com/user-attachments/assets/e414e634-186f-437d-a291-cd4966be2a26" width="450"/>
+<img src="https://github.com/user-attachments/assets/e414e634-186f-437d-a291-cd4966be2a26" width="900"/>
 
 [🔗 GitHub Repo](https://github.com/dorinahabravan/climate-ai-remote-sensing)
 
@@ -116,7 +116,7 @@ Python • Pandas • NumPy • Scikit-learn • TensorFlow/Keras • Streamlit 
 #### 📮 Stamp Management System
 > Java desktop app with CRUD + CSV  
 
-<img src="https://github.com/user-attachments/assets/09c21650-951a-45eb-8594-4c15a44d4df7" width="450"/>
+<img src="https://github.com/user-attachments/assets/09c21650-951a-45eb-8594-4c15a44d4df7" width="900"/>
 
 [🔗 GitHub Repo](https://github.com/dorinahabravan/stamp_management_system)
 
@@ -125,7 +125,7 @@ Python • Pandas • NumPy • Scikit-learn • TensorFlow/Keras • Streamlit 
 #### 📅 Booking Management System
 > Java GUI system with file storage  
 
-<img src="https://github.com/user-attachments/assets/a698b2d1-ec64-4c40-946b-2c7aa0fbb340" width="450"/>
+<img src="https://github.com/user-attachments/assets/a698b2d1-ec64-4c40-946b-2c7aa0fbb340" width="900"/>
 
 [🔗 GitHub Repo](https://github.com/dorinahabravan/bookingmanagementsystem)
 
@@ -133,7 +133,7 @@ Python • Pandas • NumPy • Scikit-learn • TensorFlow/Keras • Streamlit 
 #### 🏙️ Seabrook Community Web App
 > Dynamic municipal-style website in PHP
 
-<img src="https://github.com/user-attachments/assets/d3773b71-42d4-478f-9b5e-9a88083b50ed" width="450"/>
+<img src="https://github.com/user-attachments/assets/d3773b71-42d4-478f-9b5e-9a88083b50ed" width="900"/>
 
 [🔗 GitHub Repo](https://github.com/dorinahabravan/seabrookcommunity)
 
