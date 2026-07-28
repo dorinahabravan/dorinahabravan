@@ -79,7 +79,7 @@ Python • Pandas • NumPy • Scikit-learn • TensorFlow/Keras • Streamlit 
 > I was assigned as **Project Manager**, coordinating tasks, tracking progress, and ensuring deadlines were met.  
 > The project focused on building a **web application** using **PHP, SQL database, and frontend technologies (HTML/CSS/JS)**.  
 
-<img src="https://github.com/user-attachments/assets/911ab5f8-3059-47f7-8a90-3ba20020981a" width="450"/>
+<img src="https://github.com/user-attachments/assets/911ab5f8-3059-47f7-8a90-3ba20020981a" width="900"/>
 
 [Trello Board Link](https://trello.com/b/bNSmRzoO/workbasedlearning)  
 [🔗 GitHub Repo](https://github.com/dorinahabravan/WORK-BASED-LEARNING-PROJECT.git)
