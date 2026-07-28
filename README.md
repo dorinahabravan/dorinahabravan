@@ -66,7 +66,7 @@
 #### 🔧 Technologies
 Python • Pandas • NumPy • Scikit-learn • TensorFlow/Keras • Streamlit • SHAP • Plotly • Joblib • Git • GitHub
 
-<img src="https://github.com/dorinahabravan/AI-Behavioural-IDS/blob/main/assets/image.png" width="700"/>
+<img src="https://github.com/dorinahabravan/AI-Behavioural-IDS/blob/main/assets/image.png" width="900"/>
 
 📄 Dissertation Report
 
