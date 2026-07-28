@@ -70,7 +70,7 @@ Python • Pandas • NumPy • Scikit-learn • TensorFlow/Keras • Streamlit 
 
 📄 Dissertation Report
 
-🔗 GitHub Repository
+[🔗 GitHub Repo](https://github.com/dorinahabravan/AI-Behavioural-IDS)
 
 ---
 
