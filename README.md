@@ -51,6 +51,27 @@
 ---
 ### 🧠 Projects Showcase
 
+## 🛡️ AI-Powered Cybersecurity Risk Prediction Dashboard
+
+> **Final Year Dissertation – BSc (Hons) Computing**
+>
+> Developed an **AI-powered cybersecurity risk prediction system** designed to detect malicious network activity and support early cyber threat identification through machine learning and network traffic analysis. The project utilised the **CICIDS2017 dataset** and implemented a complete end-to-end machine learning pipeline, including data preprocessing, exploratory data analysis, feature engineering, model training, performance evaluation, and deployment.
+>
+> Multiple machine learning models were developed and compared, including **Logistic Regression, Random Forest, Isolation Forest, and a 1D Convolutional Neural Network (CNN)**, using evaluation metrics such as **Accuracy, Precision, Recall, F1-score, ROC-AUC, and Confusion Matrices** to identify the most effective approach for attack detection.
+>
+> The final solution was deployed as an **interactive Streamlit dashboard**, enabling users to upload network traffic data, generate real-time cybersecurity risk predictions, compare multiple AI models, monitor attack trends, visualise key performance indicators, and interpret model decisions using **SHAP Explainable AI**. The project demonstrates the practical application of **Artificial Intelligence, Machine Learning, Data Science, Explainable AI, and Software Engineering** to address real-world cybersecurity challenges through an intelligent decision-support system.
+
+### 🔧 Technologies
+Python • Pandas • NumPy • Scikit-learn • TensorFlow/Keras • Streamlit • SHAP • Plotly • Joblib • Git • GitHub
+
+<img src="YOUR_DASHBOARD_SCREENSHOT.png" width="700"/>
+
+📄 Dissertation Report
+
+🔗 GitHub Repository
+
+---
+
 #### 🧩 Work-Based Learning Project
 > Student team project managed using **Trello** and **Agile methodology**.  
 > I was assigned as **Project Manager**, coordinating tasks, tracking progress, and ensuring deadlines were met.  
