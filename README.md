@@ -12,7 +12,7 @@
 <!-- Header -->
 <h1 align="center">Hi, I'm Dorina Habravan 👋</h1>
 <p align="center">
-🌟 Computer Science Student • 💻 Software Developer • 🤖 AI Explorer
+🌟 BSc (Hons) Computer Science Student • 💻 Software Developer • 🤖 AI Explorer
 </p>
 
 ---
