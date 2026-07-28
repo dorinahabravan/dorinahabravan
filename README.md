@@ -19,10 +19,10 @@
 
 ### 🔍 About Me
 
-- 🎓 I'm currently studying BSc (Hons) Computer Science at Elizabeth School of London in partnership with  Newcastle College Group.
-- 🛠️ I enjoy building full-stack applications and experimenting with AI for real-world solutions.
-- 🌍 Based in the UK, open to remote and freelance opportunities.
-- 🚀 My goal: to innovate, learn constantly, and make an impact with code.
+- 🎓 Completed BSc (Hons) Computing at Elizabeth School of London (awarded by Newcastle College Group). Graduation pending.
+- 🛠️ Passionate about building AI-powered and full-stack applications that solve real-world problems.
+- 🌍 Based in the UK, open to graduate, remote, hybrid, and freelance opportunities.
+- 🚀 Continuously learning, building innovative software, and applying AI to create practical solutions.
 
 ---
 
