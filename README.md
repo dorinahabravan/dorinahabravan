@@ -68,7 +68,7 @@ Python • Pandas • NumPy • Scikit-learn • TensorFlow/Keras • Streamlit 
 
 <img src="https://github.com/dorinahabravan/AI-Behavioural-IDS/blob/main/assets/image.png" width="900"/>
 
-📄 Dissertation Report
+[📄 Dissertation Report](https://github.com/dorinahabravan/AI-Behavioural-IDS/blob/main/Habravan_2261344_CMP600_Dissertation.pdf)
 
 [🔗 GitHub Repo](https://github.com/dorinahabravan/AI-Behavioural-IDS)
 
